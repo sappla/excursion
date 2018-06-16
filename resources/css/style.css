@@ -30,3 +30,8 @@ a {
   color: gray;
   font-size: 21px;
 }
+
+footer p{
+  color: gray;
+  text-align: right;
+}
